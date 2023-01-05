@@ -1,0 +1,20 @@
+{
+  "name": "hackaton-ppt-validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "segundo juan",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "async": "^3.2.4",
+    "jszip": "^3.10.1",
+    "xml2js": "^0.4.23",
+    "xmldoc": "^1.2.0"
+  }
+}
